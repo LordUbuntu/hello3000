@@ -20,6 +20,7 @@ If there is a language you would like to see represented that isn't currently pr
 
 ## Languages
 
+* [Awk](https://github.com/LordUbuntu/hello3000/blob/main/hello.awk)
 * [C](https://github.com/LordUbuntu/hello3000/blob/main/hello.c)
 * [Haskell](https://github.com/LordUbuntu/hello3000/blob/main/hello.hs)
 * [Lua](https://github.com/LordUbuntu/hello3000/blob/main/hello.lua)
