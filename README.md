@@ -24,3 +24,4 @@ If there is a language you would like to see represented that isn't currently pr
 * [Haskell](https://github.com/LordUbuntu/hello3000/blob/main/hello.hs)
 * [Lua](https://github.com/LordUbuntu/hello3000/blob/main/hello.lua)
 * [Python](https://github.com/LordUbuntu/hello3000/blob/main/hello.py)
+* [Shell](https://github.com/LordUbuntu/hello3000/blob/main/hello.sh)
