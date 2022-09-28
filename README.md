@@ -12,11 +12,11 @@ I hope you enjoy it!
 Each "Hello World!" program follows the same pattern:
 * take a user input
 * assign that to the variable "name"
-* print "Hello <name>!" to the output
+* print "Hello [name]!" to the output
 
 ## Contributing
 
-If there is a language you would like to see represented that isn't currently present, consider contributing to this project by submitting a PR (Pull Request) with your language. To do that, create a PR with the title "Hello <your language>" as a single file named "hello.<your language file extension>", and that will be it! An example would be me submitting a PR titled "Hello Python" with the file "hello.py". If enough people contribute frequently enough, I will automate this process. I doubt that will happen though >_>
+If there is a language you would like to see represented that isn't currently present, consider contributing to this project by submitting a PR (Pull Request) with your language. To do that, create a PR with the title "Hello [your language]" as a single file named "hello.[your language file extension]", and that will be it! An example would be me submitting a PR titled "Hello Python" with the file "hello.py". If enough people contribute frequently enough, I will automate this process. I doubt that will happen though >_>
 
 ## Languages
 
