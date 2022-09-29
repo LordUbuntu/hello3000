@@ -23,6 +23,7 @@ If there is a language you would like to see represented that isn't currently pr
 * [Awk](https://github.com/LordUbuntu/hello3000/blob/main/hello.awk)
 * [C](https://github.com/LordUbuntu/hello3000/blob/main/hello.c)
 * [Haskell](https://github.com/LordUbuntu/hello3000/blob/main/hello.hs)
+* [Common Lisp](https://github.com/LordUbuntu/hello3000/blob/main/hello.lisp)
 * [Lua](https://github.com/LordUbuntu/hello3000/blob/main/hello.lua)
 * [Python](https://github.com/LordUbuntu/hello3000/blob/main/hello.py)
 * [Shell](https://github.com/LordUbuntu/hello3000/blob/main/hello.sh)
