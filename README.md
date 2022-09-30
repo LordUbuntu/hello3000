@@ -16,7 +16,13 @@ Each "Hello World!" program follows the same pattern:
 
 ## Contributing
 
-If there is a language you would like to see represented that isn't currently present, consider contributing to this project by submitting a PR (Pull Request) with your language. To do that, create a PR with the title "Hello [your language]" as a single file named "hello.[your language file extension]", and that will be it! An example would be me submitting a PR titled "Hello Python" with the file "hello.py". If enough people contribute frequently enough, I will automate this process. I doubt that will happen though >_>
+If there is a language you would like to see represented that isn't currently present, consider contributing to this project by submitting a PR (Pull Request) with your language.
+
+To do that, create a PR with the title "Hello [your language]" as a single file named "hello.[your language file extension]", and that will be it! An example would be me submitting a PR titled "Hello Python" with the file "hello.py". If enough people contribute frequently enough, I will automate this process. I doubt that will happen though >_>
+
+This is subject to the following limitations:
+- contribution must be in a novel language (a language that is not already in the repository)
+- contribution must follow the same formula/structure (read input, store in name, print "Hello [name]")
 
 ## Languages
 
