@@ -5,6 +5,8 @@ A collection of roughly 3000 ways to say hello.
 
 Hello 3000 is a repository containing thousands of examples of the hello world program written in various programming languages. This repository is the consequence of a dream. This repository is an exploration of languages, maybe it's art? I don't know.
 
+It's **purpose** is to be something of a reference guide to io in the vast world of programming languages. For now that goal is restricted to the universal beginner language "Hello World!", but maybe in the future some additional programs like truth machine will be included.
+
 I hope you enjoy it!
 
 ## Program Structure
