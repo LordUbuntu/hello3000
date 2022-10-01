@@ -30,6 +30,7 @@ This is subject to the following limitations:
 
 * [Awk](https://github.com/LordUbuntu/hello3000/blob/main/hello.awk)
 * [C](https://github.com/LordUbuntu/hello3000/blob/main/hello.c)
+* [C++](https://github.com/LordUbuntu/hello3000/blob/main/hello.cpp)
 * [Haskell](https://github.com/LordUbuntu/hello3000/blob/main/hello.hs)
 * [Common Lisp](https://github.com/LordUbuntu/hello3000/blob/main/hello.lisp)
 * [Lua](https://github.com/LordUbuntu/hello3000/blob/main/hello.lua)
