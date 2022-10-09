@@ -37,5 +37,6 @@ This is subject to the following limitations:
 * [Common Lisp](https://github.com/LordUbuntu/hello3000/blob/main/hello.lisp)
 * [Lua](https://github.com/LordUbuntu/hello3000/blob/main/hello.lua)
 * [Python](https://github.com/LordUbuntu/hello3000/blob/main/hello.py)
+* [Ruby](https://github.com/LordUbuntu/hello3000/blob/main/hello.rb)
 * [Shell](https://github.com/LordUbuntu/hello3000/blob/main/hello.sh)
 
