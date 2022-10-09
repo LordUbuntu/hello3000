@@ -8,7 +8,7 @@ public class Hello
     System.out.printf("Name: ");
     String name = sc.nextLine();
     
-    System.out.println("Hello " + name);
+    System.out.println("Hello " + name + "!");
    
     return 0;
   }
