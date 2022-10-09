@@ -32,6 +32,8 @@ This is subject to the following limitations:
 * [C](https://github.com/LordUbuntu/hello3000/blob/main/hello.c)
 * [C++](https://github.com/LordUbuntu/hello3000/blob/main/hello.cpp)
 * [Haskell](https://github.com/LordUbuntu/hello3000/blob/main/hello.hs)
+* [Java](https://github.com/LordUbuntu/hello3000/blob/main/hello.java)
+* [JavaScript](https://github.com/LordUbuntu/hello3000/blob/main/hello.js)
 * [Common Lisp](https://github.com/LordUbuntu/hello3000/blob/main/hello.lisp)
 * [Lua](https://github.com/LordUbuntu/hello3000/blob/main/hello.lua)
 * [Python](https://github.com/LordUbuntu/hello3000/blob/main/hello.py)
