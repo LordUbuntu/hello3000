@@ -29,6 +29,7 @@ This is subject to the following limitations:
 ## Languages
 
 * [Awk](https://github.com/LordUbuntu/hello3000/blob/main/hello.awk)
+* [BrainFuck](https://github.com/LordUbuntu/hello3000/blob/main/hello.bf)
 * [C](https://github.com/LordUbuntu/hello3000/blob/main/hello.c)
 * [C++](https://github.com/LordUbuntu/hello3000/blob/main/hello.cpp)
 * [Haskell](https://github.com/LordUbuntu/hello3000/blob/main/hello.hs)
