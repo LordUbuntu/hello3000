@@ -26,6 +26,8 @@ This is subject to the following limitations:
 - contribution must be in a novel language (a language that is not already in the repository)
 - contribution must follow the same formula/structure (read input, store in name, print "Hello [name]")
 
+A star would also be appreciated ;)
+
 ## Languages
 
 * [Awk](https://github.com/LordUbuntu/hello3000/blob/main/hello.awk)
