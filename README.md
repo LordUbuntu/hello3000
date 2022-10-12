@@ -7,9 +7,9 @@ Hello 3000 is a repository containing thousands of examples of the hello world p
 
 It's **purpose** is to be a reference guide to io in the many programming languages that exist. For now that goal is restricted to the universal beginner program "Hello World!", but maybe in the future some additional programs like truth machine will be included.
 
-My main reason for making this repository was to give myself a simple way to start and maintain a habit of programming and learning, even by just this tiny bit, every single day. While the programs are trivial, it does make a good reference to compare between different languages. It's also just fun to code sometimes.
+My main reason for creating this repository was to give myself a simple way to start and maintain a habit of programming and learning, even by just this tiny bit, every single day. So that even on busy days or days where I feel down, I can do just a little bit of coding to keep the ball rolling. A journey of a thousand miles starts with a single step. While the programs are trivial, it does make a good reference to compare between different languages due to the program's uniformity.
 
-I hope you enjoy it!
+I hope you enjoy this miniscule repo!
 
 ## Program Structure
 
