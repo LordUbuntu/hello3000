@@ -38,6 +38,7 @@ This is subject to the following limitations:
 * [JavaScript](https://github.com/LordUbuntu/hello3000/blob/main/hello.js)
 * [Common Lisp](https://github.com/LordUbuntu/hello3000/blob/main/hello.lisp)
 * [Lua](https://github.com/LordUbuntu/hello3000/blob/main/hello.lua)
+* [Pascal](https://github.com/LordUbuntu/hello3000/blob/main/hello.pas)
 * [Python](https://github.com/LordUbuntu/hello3000/blob/main/hello.py)
 * [Ruby](https://github.com/LordUbuntu/hello3000/blob/main/hello.rb)
 * [Shell](https://github.com/LordUbuntu/hello3000/blob/main/hello.sh)
