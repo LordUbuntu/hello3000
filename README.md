@@ -33,6 +33,7 @@ This is subject to the following limitations:
 * [C](https://github.com/LordUbuntu/hello3000/blob/main/hello.c)
 * [C++](https://github.com/LordUbuntu/hello3000/blob/main/hello.cpp)
 * [Crystal](https://github.com/LordUbuntu/hello3000/blob/main/hello.cr)
+* [Elixir](https://github.com/LordUbuntu/hello3000/blob/main/hello.exs)
 * [Haskell](https://github.com/LordUbuntu/hello3000/blob/main/hello.hs)
 * [Java](https://github.com/LordUbuntu/hello3000/blob/main/hello.java)
 * [JavaScript](https://github.com/LordUbuntu/hello3000/blob/main/hello.js)
