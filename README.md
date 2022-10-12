@@ -32,6 +32,7 @@ This is subject to the following limitations:
 * [BrainFuck](https://github.com/LordUbuntu/hello3000/blob/main/hello.bf)
 * [C](https://github.com/LordUbuntu/hello3000/blob/main/hello.c)
 * [C++](https://github.com/LordUbuntu/hello3000/blob/main/hello.cpp)
+* [Crystal](https://github.com/LordUbuntu/hello3000/blob/main/hello.cr)
 * [Haskell](https://github.com/LordUbuntu/hello3000/blob/main/hello.hs)
 * [Java](https://github.com/LordUbuntu/hello3000/blob/main/hello.java)
 * [JavaScript](https://github.com/LordUbuntu/hello3000/blob/main/hello.js)
