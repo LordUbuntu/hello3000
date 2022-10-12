@@ -5,7 +5,9 @@ A collection of roughly 3000 ways to say hello.
 
 Hello 3000 is a repository containing thousands of examples of the hello world program written in various programming languages. This repository is the consequence of a dream. This repository is an exploration of languages, maybe it's art? I don't know.
 
-It's **purpose** is to be something of a reference guide to io in the vast world of programming languages. For now that goal is restricted to the universal beginner language "Hello World!", but maybe in the future some additional programs like truth machine will be included.
+It's **purpose** is to be a reference guide to io in the many programming languages that exist. For now that goal is restricted to the universal beginner program "Hello World!", but maybe in the future some additional programs like truth machine will be included.
+
+My main reason for making this repository was to give myself a simple way to start and maintain a habit of programming and learning, even by just this tiny bit, every single day. While the programs are trivial, it does make a good reference to compare between different languages. It's also just fun to code sometimes.
 
 I hope you enjoy it!
 
@@ -20,13 +22,17 @@ Each "Hello World!" program follows the same pattern:
 
 If there is a language you would like to see represented that isn't currently present, consider contributing to this project by submitting a PR (Pull Request) with your language.
 
-To do that, create a PR with the title "Hello [your language]" as a single file named "hello.[your language file extension]", and that will be it! An example would be me submitting a PR titled "Hello Python" with the file "hello.py". If enough people contribute frequently enough, I will automate this process. I doubt that will happen though >_>
+**_To do that_**...
+1. Fork this repo (and give it a :star: if you would like to)
+2. Create a file called `hello` in your language (eg: `hello.py`)
+3. Create a PR with the title `Hello [your language]` (eg: `Hello Python`)
+4. I'll merge it in at most 3 days
 
-This is subject to the following limitations:
+**_subject to the following limitations_**:
 - contribution must be in a novel language (a language that is not already in the repository)
-- contribution must follow the same formula/structure (read input, store in name, print "Hello [name]")
+- contribution must follow the same formula/structure (read input and assign to variable `name`, write output `"Hello [name]!"`)
 
-A star :star: would also be appreciated ;)
+If enough people contribute frequently enough, I will create a github action for this process. I doubt that will hapen thought >_>
 
 ## Languages
 
