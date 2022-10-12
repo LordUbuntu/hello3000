@@ -18,6 +18,16 @@ Each "Hello World!" program follows the same pattern:
 * assign that to the variable "name"
 * print "Hello [name]!" to the output
 
+Or in pseudocode:
+```
+function main
+  var name = input
+  print "Hello {name}!"
+end
+
+main
+```
+
 ## Contributing
 
 If there is a language you would like to see represented that isn't currently present, consider contributing to this project by submitting a PR (Pull Request) with your language.
