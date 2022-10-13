@@ -36,11 +36,15 @@ If there is a language you would like to see represented that isn't currently pr
 1. Fork this repo (and give it a :star: if you would like to)
 2. Create a file called `hello` in your language (eg: `hello.py`)
 3. Create a PR with the title `Hello [your language]` (eg: `Hello Python`)
+  * Make sure to give a description
 4. I'll merge it in at most 3 days
 
 **_subject to the following limitations_**:
 - contribution must be in a novel language (a language that is not already in the repository)
 - contribution must follow the same formula/structure (read input and assign to variable `name`, write output `"Hello [name]!"`)
+  - The input should _not_ include a text prompt like "what is your name?"
+
+Contributions which do not meet the above requirementes will not be accepted.
 
 If enough people contribute frequently enough, I will create a github action for this process. I doubt that will hapen thought >_>
 
