@@ -42,6 +42,7 @@ If there is a language you would like to see represented that isn't currently pr
 **_subject to the following limitations_**:
 - contribution must be in a novel language (a language that is not already in the repository)
 - contribution must follow the same formula/structure (read input and assign to variable `name`, write output `"Hello [name]!"`)
+- the program should be contained in a `main` function and that function called, if it can be done in the language!
   - The input should _not_ include a text prompt like "what is your name?"
 
 Contributions which do not meet the above requirementes will not be accepted.
