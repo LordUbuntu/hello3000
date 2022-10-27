@@ -54,6 +54,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [Awk](https://github.com/LordUbuntu/hello3000/blob/main/hello.awk)
 * [BrainFuck](https://github.com/LordUbuntu/hello3000/blob/main/hello.bf)
 * [C](https://github.com/LordUbuntu/hello3000/blob/main/hello.c)
+* [Coq](https://github.com/LordUbuntu/hello3000/blob/main/hello.coq)
 * [C++](https://github.com/LordUbuntu/hello3000/blob/main/hello.cpp)
 * [Crystal](https://github.com/LordUbuntu/hello3000/blob/main/hello.cr)
 * [Elixir](https://github.com/LordUbuntu/hello3000/blob/main/hello.exs)
@@ -66,5 +67,5 @@ If enough people contribute frequently enough, I will create a github action for
 * [Pascal](https://github.com/LordUbuntu/hello3000/blob/main/hello.pas)
 * [Python](https://github.com/LordUbuntu/hello3000/blob/main/hello.py)
 * [Ruby](https://github.com/LordUbuntu/hello3000/blob/main/hello.rb)
+* [Rust](https://github.com/LordUbuntu/hello3000/blob/main/hello.rs)
 * [Shell](https://github.com/LordUbuntu/hello3000/blob/main/hello.sh)
-
