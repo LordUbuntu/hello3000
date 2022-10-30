@@ -54,6 +54,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [Awk](https://github.com/LordUbuntu/hello3000/blob/main/hello.awk)
 * [BrainFuck](https://github.com/LordUbuntu/hello3000/blob/main/hello.bf)
 * [C](https://github.com/LordUbuntu/hello3000/blob/main/hello.c)
+* [C#](https://github.com/LordUbuntu/hello3000/blob/main/hello.cs)
 * [Coq](https://github.com/LordUbuntu/hello3000/blob/main/hello.coq)
 * [C++](https://github.com/LordUbuntu/hello3000/blob/main/hello.cpp)
 * [Crystal](https://github.com/LordUbuntu/hello3000/blob/main/hello.cr)
