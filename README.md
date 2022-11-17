@@ -70,3 +70,4 @@ If enough people contribute frequently enough, I will create a github action for
 * [Ruby](https://github.com/LordUbuntu/hello3000/blob/main/hello.rb)
 * [Rust](https://github.com/LordUbuntu/hello3000/blob/main/hello.rs)
 * [Shell](https://github.com/LordUbuntu/hello3000/blob/main/hello.sh)
+* [Smalltalk](https://github.com/LordUbuntu/hello3000/blob/main/hello.st)
