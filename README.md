@@ -58,6 +58,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [Coq](https://github.com/LordUbuntu/hello3000/blob/main/hello.coq)
 * [C++](https://github.com/LordUbuntu/hello3000/blob/main/hello.cpp)
 * [Crystal](https://github.com/LordUbuntu/hello3000/blob/main/hello.cr)
+* [Eiffel](https://github.com/LordUbuntu/hello3000/blob/main/hello.e)
 * [Elixir](https://github.com/LordUbuntu/hello3000/blob/main/hello.exs)
 * [Haskell](https://github.com/LordUbuntu/hello3000/blob/main/hello.hs)
 * [Java](https://github.com/LordUbuntu/hello3000/blob/main/hello.java)
