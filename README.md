@@ -63,6 +63,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [Haskell](https://github.com/LordUbuntu/hello3000/blob/main/hello.hs)
 * [Java](https://github.com/LordUbuntu/hello3000/blob/main/hello.java)
 * [JavaScript](https://github.com/LordUbuntu/hello3000/blob/main/hello.js)
+* [Julia](https://github.com/LordUbuntu/hello3000/blob/main/hello.jl)
 * [Kotlin](https://github.com/LordUbuntu/hello3000/blob/main/hello.kt)
 * [Common Lisp](https://github.com/LordUbuntu/hello3000/blob/main/hello.lisp)
 * [Lua](https://github.com/LordUbuntu/hello3000/blob/main/hello.lua)
