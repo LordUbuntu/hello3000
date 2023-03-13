@@ -1,5 +1,5 @@
 function main()
-  name::String = readline()
+  name = readline()
   println("Hello, $(name)!")
 end
 
