@@ -2,9 +2,9 @@
 using namespace std;
 
 
-int main(){
+int main(void) {
     string name;
     cin >> name;
-    cout << "hello " + name + '!' << endl;
+    cout << "Hello, " << name << '!' << endl;
     return 0;
 }
