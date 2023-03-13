@@ -1,6 +1,6 @@
 main() {
   read name
-  echo "Hello $name!\n"
+  echo "Hello, $name!\n"
 }
 
 main
