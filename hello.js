@@ -1,6 +1,6 @@
 function main() {
   let name = prompt();
-  alert("Hello " + name + "!");
+  alert("Hello, " + name + "!");
 }
 
 main()
