@@ -1,2 +1,2 @@
 name = gets
-puts "Hello #{name}!"
+puts "Hello, #{name}!"
