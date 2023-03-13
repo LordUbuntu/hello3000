@@ -52,6 +52,7 @@ If enough people contribute frequently enough, I will create a github action for
 ## Languages
 
 * [Awk](https://github.com/LordUbuntu/hello3000/blob/main/hello.awk)
+* [Basic](https://github.com/LordUbuntu/hello3000/blob/main/hello.bas)
 * [BrainFuck](https://github.com/LordUbuntu/hello3000/blob/main/hello.bf)
 * [C](https://github.com/LordUbuntu/hello3000/blob/main/hello.c)
 * [C#](https://github.com/LordUbuntu/hello3000/blob/main/hello.cs)
@@ -66,8 +67,12 @@ If enough people contribute frequently enough, I will create a github action for
 * [Julia](https://github.com/LordUbuntu/hello3000/blob/main/hello.jl)
 * [Kotlin](https://github.com/LordUbuntu/hello3000/blob/main/hello.kt)
 * [Common Lisp](https://github.com/LordUbuntu/hello3000/blob/main/hello.lisp)
+* [Fortran](https://github.com/LordUbuntu/hello3000/blob/main/hello.f90)
+* [Go](https://github.com/LordUbuntu/hello3000/blob/main/hello.go)
 * [Lua](https://github.com/LordUbuntu/hello3000/blob/main/hello.lua)
+* [Matlab](https://github.com/LordUbuntu/hello3000/blob/main/hello.m)
 * [Pascal](https://github.com/LordUbuntu/hello3000/blob/main/hello.pas)
+* [Perl](https://github.com/LordUbuntu/hello3000/blob/main/hello.plx)
 * [Python](https://github.com/LordUbuntu/hello3000/blob/main/hello.py)
 * [Ruby](https://github.com/LordUbuntu/hello3000/blob/main/hello.rb)
 * [Rust](https://github.com/LordUbuntu/hello3000/blob/main/hello.rs)
