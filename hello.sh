@@ -1,6 +1,8 @@
+#!/bin/sh
+
 main() {
-  read name
-  echo "Hello, $name!\n"
+  read -r name
+  printf "Hello, %s!\n" "$name"
 }
 
 main
