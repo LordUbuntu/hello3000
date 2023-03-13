@@ -1,2 +1,2 @@
-name = IO.gets "Enter name: "
-IO.puts "Hello, #{String.trim(name)}! How are you?"
+name = IO.gets ""
+IO.puts "Hello, #{String.trim(name)}!"
