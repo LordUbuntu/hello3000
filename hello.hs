@@ -1,3 +1,3 @@
 main = do
   name <- getLine
-  putStrLn $ "Hello " ++ name ++ "!"
+  putStrLn $ "Hello, " ++ name ++ "!"
