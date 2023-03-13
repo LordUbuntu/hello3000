@@ -1,6 +1,6 @@
 function main()
-  name = readline()
-  println("Hello $(name)!")
+  name::String = readline()
+  println("Hello, $(name)!")
 end
 
 main()
