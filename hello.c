@@ -4,6 +4,6 @@ int
 main(void)
 {
         char name[1024];
-        scanf("%s", name);
-        printf("Hello %s!\n", name);
+        scanf("%s", name);  // note: only scanes first word in line
+        printf("Hello, %s!\n", name);
 }
