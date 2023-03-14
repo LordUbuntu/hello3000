@@ -16,13 +16,13 @@ I hope you enjoy this miniscule repo!
 Each "Hello World!" program follows the same pattern:
 * take a user input
 * assign that to the variable "name"
-* print "Hello [name]!" to the output
+* print "Hello, [name]!" to the output
 
 Or in pseudocode:
 ```
 function main
   var name = input
-  print "Hello {name}!"
+  print "Hello, {name}!"
 end
 
 main
@@ -40,14 +40,15 @@ If there is a language you would like to see represented that isn't currently pr
 4. I'll merge it in at most 3 days
 
 **_subject to the following limitations_**:
-- contribution must be in a novel language (a language that is not already in the repository)
-- contribution must follow the same formula/structure (read input and assign to variable `name`, write output `"Hello [name]!"`)
-- the program should be contained in a `main` function and that function called, if it can be done in the language!
+- The contribution must be in a novel language (a language that is not already in the repository)
+- The contribution must follow the same formula/structure (read input and assign to variable `name`, write output `"Hello [name]!"`)
+- The program should be able to take input and print output on it's own (HTML/XML/MD won't be allowed)
+- The program should be contained in a `main` function and that function called, if it can be done in the language!
   - The input should _not_ include a text prompt like "what is your name?"
 
 Contributions which do not meet the above requirementes will not be accepted.
 
-If enough people contribute frequently enough, I will create a github action for this process. I doubt that will hapen thought >_>
+If enough people contribute frequently enough, I will create a github action for this process. I doubt that will happen though >_>
 
 ## Languages
 
