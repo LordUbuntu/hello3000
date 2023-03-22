@@ -3,7 +3,7 @@
 int
 main(void)
 {
-        char name[1024];
-        scanf("%s", name);  // note: only scanes first word in line
+        char name[2048];
+        scanf("%[^\n]s", name);  // note: gcc specific scanf args
         printf("Hello, %s!\n", name);
 }
