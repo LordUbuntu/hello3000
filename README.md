@@ -70,6 +70,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [Common Lisp](https://github.com/LordUbuntu/hello3000/blob/main/hello.lisp)
 * [Fortran](https://github.com/LordUbuntu/hello3000/blob/main/hello.f90)
 * [Go](https://github.com/LordUbuntu/hello3000/blob/main/hello.go)
+* [Lobster](https://github.com/LordUbuntu/hello3000/blob/main/hello.lobster)
 * [Lua](https://github.com/LordUbuntu/hello3000/blob/main/hello.lua)
 * [Matlab](https://github.com/LordUbuntu/hello3000/blob/main/hello.m)
 * [Pascal](https://github.com/LordUbuntu/hello3000/blob/main/hello.pas)
