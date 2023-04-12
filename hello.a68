@@ -1,0 +1,5 @@
+BEGIN
+  STRING s;
+  read(s);
+  print(("Hello, ", s, "!", newline))
+END
