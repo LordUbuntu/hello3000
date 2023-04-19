@@ -1,0 +1,11 @@
+; Guile 3 Scheme
+(use-modules (ice-9 rdelim))
+
+
+(define (main)
+  (let ((name (read-line)))
+    (format #t "Hello, ~a!" name)
+    (newline)))
+
+
+(main)
