@@ -77,6 +77,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [Pascal](https://github.com/LordUbuntu/hello3000/blob/main/hello.pas)
 * [Perl](https://github.com/LordUbuntu/hello3000/blob/main/hello.plx)
 * [Python](https://github.com/LordUbuntu/hello3000/blob/main/hello.py)
+* [R](https://github.com/LordUbuntu/hello3000/blob/main/hello.r)
 * [Ruby](https://github.com/LordUbuntu/hello3000/blob/main/hello.rb)
 * [Rust](https://github.com/LordUbuntu/hello3000/blob/main/hello.rs)
 * [Shell](https://github.com/LordUbuntu/hello3000/blob/main/hello.sh)
