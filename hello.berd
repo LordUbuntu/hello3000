@@ -1,10 +1,20 @@
 // dreamberd (now known as C) hello world example ¯\_(ツ)_/¯
 // see: https://github.com/TodePond/C
+
+// note: vote may cause undeterministic outcome to halting problem solution...
 vote delete vote!  // experimental feature, see
                    // https://github.com/TodePond/C/issues/115 (or don't)
+
+// solve halting problem using wave function collapse
+vote const const const halt = vote ((vote vote "Halt") (vote "Loop"))
+when (halt = "Halt") { vote halt = "Loop" }
+when (halt = "Loop") { vote halt = "Halt" }
+// don't print answer though, we're not ready for it...
+
 // note: -3 indentation level, idiomatic and elegant
    async func main() {
 Date.now() -= 3600000!!!!!!!!!!!!!!!!  // timetravel
+// feeling lazy, will let Lu will fill in the other ')'
 print(name¡                // 3   <- negative priority and time fork
 noop!                       // 1   <- double extra sure no race conditions
 const const name = read()!  // 0
