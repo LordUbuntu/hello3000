@@ -1,8 +1,10 @@
 // dreamberd (now known as C) hello world example ¯\_(ツ)_/¯
 // see: https://github.com/TodePond/C
+vote delete vote!  // experimental feature, see
+                   // https://github.com/TodePond/C/issues/115 (or don't)
+// note: -3 indentation level, idiomatic and elegant
    async func main() {
 Date.now() -= 3600000!!!!!!!!!!!!!!!!  // timetravel
-// note: -3 indentation level, idiomatic and elegant
 print(name¡                // 3   <- negative priority and time fork
 noop!                       // 1   <- double extra sure no race conditions
 const const name = read()!  // 0
