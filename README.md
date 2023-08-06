@@ -53,8 +53,10 @@ If enough people contribute frequently enough, I will create a github action for
 ## Languages
 
 * [Algol 68](https://github.com/LordUbuntu/hello3000/blob/main/hello.a68)
+* [ASM](https://github.com/LordUbuntu/hello3000/blob/main/hello.asm)
 * [Awk](https://github.com/LordUbuntu/hello3000/blob/main/hello.awk)
 * [Basic](https://github.com/LordUbuntu/hello3000/blob/main/hello.bas)
+* [Berd/C](https://github.com/LordUbuntu/hello3000/blob/main/hello.berd)
 * [BrainFuck](https://github.com/LordUbuntu/hello3000/blob/main/hello.bf)
 * [C](https://github.com/LordUbuntu/hello3000/blob/main/hello.c)
 * [C#](https://github.com/LordUbuntu/hello3000/blob/main/hello.cs)
@@ -67,6 +69,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [F#](https://github.com/LordUbuntu/hello3000/blob/main/hello.fsx)
 * [Fortran](https://github.com/LordUbuntu/hello3000/blob/main/hello.f90)
 * [Go](https://github.com/LordUbuntu/hello3000/blob/main/hello.go)
+* [Guile](https://github.com/LordUbuntu/hello3000/blob/main/hello.guile)
 * [Haskell](https://github.com/LordUbuntu/hello3000/blob/main/hello.hs)
 * [Java](https://github.com/LordUbuntu/hello3000/blob/main/hello.java)
 * [JavaScript](https://github.com/LordUbuntu/hello3000/blob/main/hello.js)
