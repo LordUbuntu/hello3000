@@ -52,6 +52,7 @@ If enough people contribute frequently enough, I will create a github action for
 
 ## Languages
 
+* [Ada](https://github.com/LordUbuntu/hello3000/blob/main/hello.ada)
 * [Algol 68](https://github.com/LordUbuntu/hello3000/blob/main/hello.a68)
 * [ASM](https://github.com/LordUbuntu/hello3000/blob/main/hello.asm)
 * [Awk](https://github.com/LordUbuntu/hello3000/blob/main/hello.awk)
