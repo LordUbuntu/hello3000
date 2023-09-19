@@ -1,0 +1,9 @@
+require 'io'
+
+local function main(): integer
+  local name: string = io.read()
+  print("Hello, "..name.."!")
+  return 0
+end
+
+main()
