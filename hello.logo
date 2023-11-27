@@ -1,6 +1,6 @@
 to main
   make "name readlist
-  print "Hello, :name !
+  print (se "Hello, :name "!)
 end
 
 main
