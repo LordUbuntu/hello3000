@@ -80,6 +80,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [Kotlin](https://github.com/LordUbuntu/hello3000/blob/main/hello.kt)
 * [Common Lisp](https://github.com/LordUbuntu/hello3000/blob/main/hello.lisp)
 * [Lobster](https://github.com/LordUbuntu/hello3000/blob/main/hello.lobster)
+* [LOGO](https://github.com/LordUbuntu/hello3000/blob/main/hello.logo)
 * [Lua](https://github.com/LordUbuntu/hello3000/blob/main/hello.lua)
 * [Matlab](https://github.com/LordUbuntu/hello3000/blob/main/hello.m)
 * [Nelua](https://nelua.io/)

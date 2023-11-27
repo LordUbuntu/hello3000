@@ -1,0 +1,6 @@
+to main
+  make "name readlist
+  print "Hello, :name !
+end
+
+main
