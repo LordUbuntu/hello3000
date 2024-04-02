@@ -84,6 +84,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [Lua](https://github.com/LordUbuntu/hello3000/blob/main/hello.lua)
 * [Matlab](https://github.com/LordUbuntu/hello3000/blob/main/hello.m)
 * [Nelua](https://nelua.io/)
+* [Onyx](https://onyxlang.io/)
 * [Pascal](https://github.com/LordUbuntu/hello3000/blob/main/hello.pas)
 * [Perl](https://github.com/LordUbuntu/hello3000/blob/main/hello.plx)
 * [Python](https://github.com/LordUbuntu/hello3000/blob/main/hello.py)

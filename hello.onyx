@@ -1,0 +1,8 @@
+use core.io { Reader }
+use core { printf, stdio }
+
+main :: () {
+  stdin := Reader.make(&stdio.stream);
+  name: [] u8 = stdin->read_until('\n');
+  printf("Hello, {}!\n", name);
+}
