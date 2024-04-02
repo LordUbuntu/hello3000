@@ -97,3 +97,4 @@ If enough people contribute frequently enough, I will create a github action for
 * [Swift](https://github.com/LordUbuntu/hello3000/blob/main/hello.swift)
 * [Turing](https://github.com/LordUbuntu/hello3000/blob/main/hello.st)
 * [V](https://github.com/LordUbuntu/hello3000/blob/main/hello.v)
+* [Wren](https://wren.io/)
