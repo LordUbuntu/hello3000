@@ -98,3 +98,4 @@ If enough people contribute frequently enough, I will create a github action for
 * [Turing](https://github.com/LordUbuntu/hello3000/blob/main/hello.st)
 * [V](https://github.com/LordUbuntu/hello3000/blob/main/hello.v)
 * [Wren](https://wren.io/)
+* [Zig](https://ziglang.org/)
