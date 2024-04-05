@@ -3,10 +3,8 @@
 section .data
 	msg db "你好, 世界!", 10, "Bonjour, le monde!", 10, "Hello, World!", 10, 0
 	len equ $ - msg
-
 section .text
 	global _start
-
 _start:
 	mov edx, len
 	mov ecx, msg
