@@ -1,5 +1,5 @@
-use core.io { Reader }
 use core { printf, stdio }
+use core.io { Reader }
 
 main :: () {
   stdin := Reader.make(&stdio.stream);
