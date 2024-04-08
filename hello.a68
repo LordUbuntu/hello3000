@@ -1,5 +1,5 @@
 BEGIN
-  STRING s;
-  read(s);
-  print(("Hello, ", s, "!", newline))
+  STRING S;
+  READ(S);
+  PRINT(("Hello, ", S, "!", NEWLINE))
 END
