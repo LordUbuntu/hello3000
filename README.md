@@ -91,6 +91,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [R](https://github.com/LordUbuntu/hello3000/blob/main/hello.r)
 * [Ruby](https://github.com/LordUbuntu/hello3000/blob/main/hello.rb)
 * [Rust](https://github.com/LordUbuntu/hello3000/blob/main/hello.rs)
+* [Scala](https://github.com/LordUbuntu/hello3000/blob/main/hello.scala)
 * [Scheme](https://github.com/LordUbuntu/hello3000/blob/main/hello.scm)
 * [Shell](https://github.com/LordUbuntu/hello3000/blob/main/hello.sh)
 * [Smalltalk](https://github.com/LordUbuntu/hello3000/blob/main/hello.st)
