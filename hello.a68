@@ -1,5 +1,5 @@
 BEGIN
-  STRING name;
-  READ(name);
+  STRING name;  { create `name` variable }
+  READ(name);   { get value of `name` from stdin }
   PRINT(("Hello, ", name, "!", NEWLINE))
 END
