@@ -1,3 +1,3 @@
 my $name = <STDIN>;
-chomp $name;
+chomp $name;  # strip newline from variable
 print "Hello, $name!\n";
