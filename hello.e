@@ -1,3 +1,5 @@
+-- Jacobus Burger (2024)
+-- Eiffel
 class
     HELLO
 create
