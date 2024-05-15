@@ -83,6 +83,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [LOGO](https://github.com/LordUbuntu/hello3000/blob/main/hello.logo)
 * [Lua](https://github.com/LordUbuntu/hello3000/blob/main/hello.lua)
 * [Matlab](https://github.com/LordUbuntu/hello3000/blob/main/hello.m)
+* [Modula 2](https://github.com/LordUbuntu/hello3000/blob/main/hello.mod)
 * [Nelua](https://nelua.io/)
 * [Onyx](https://onyxlang.io/)
 * [Pascal](https://github.com/LordUbuntu/hello3000/blob/main/hello.pas)
