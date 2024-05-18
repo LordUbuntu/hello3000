@@ -89,6 +89,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [Onyx](https://onyxlang.io/)
 * [Pascal](https://github.com/LordUbuntu/hello3000/blob/main/hello.pas)
 * [Perl](https://github.com/LordUbuntu/hello3000/blob/main/hello.plx)
+* [Prolog](https://github.com/LordUbuntu/hello3000/blob/main/hello.pl)
 * [Python](https://github.com/LordUbuntu/hello3000/blob/main/hello.py)
 * [R](https://github.com/LordUbuntu/hello3000/blob/main/hello.r)
 * [Racket](https://github.com/LordUbuntu/hello3000/blob/main/hello.rkt)
