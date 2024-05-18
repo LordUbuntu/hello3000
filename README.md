@@ -105,4 +105,4 @@ If enough people contribute frequently enough, I will create a github action for
 * [TypeScript](https://github.com/LordUbuntu/hello3000/blob/main/hello.ts)
 * [V](https://github.com/LordUbuntu/hello3000/blob/main/hello.v)
 * [Wren](https://github.com/LordUbuntu/hello3000/blob/main/hello.wren)
-* [Zig](https://ziglang.org/)
+* [Zig](https://github.com/LordUbuntu/hello3000/blob/main/hello.zig)
