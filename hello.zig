@@ -1,3 +1,7 @@
+// Jacobus Burger (2024)
+// Zig
+
+// import stdio reader/writer
 const std = @import("std");
 const stdout = std.io.getStdOut.writer;
 const stdin = std.io.getStdIn.reader;
