@@ -1,3 +1,5 @@
+{ Jacobus Burger 2024 }
+{ Algol 68 }
 BEGIN
   STRING name;  { create `name` variable }
   READ(name);   { get value of `name` from stdin }
