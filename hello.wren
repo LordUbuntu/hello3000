@@ -1,2 +1,2 @@
-var name = readLine()  // should work
+var name = readLine()
 System.print("Hello, " + name + "!")
