@@ -101,6 +101,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [Standard ML](https://github.com/LordUbuntu/hello3000/blob/main/hello.sml)
 * [Swift](https://github.com/LordUbuntu/hello3000/blob/main/hello.swift)
 * [Turing](https://github.com/LordUbuntu/hello3000/blob/main/hello.st)
+* [TypeScript](https://github.com/LordUbuntu/hello3000/blob/main/hello.ts)
 * [V](https://github.com/LordUbuntu/hello3000/blob/main/hello.v)
 * [Wren](https://wren.io/)
 * [Zig](https://ziglang.org/)
