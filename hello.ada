@@ -1,4 +1,5 @@
-// hello world in ada
+-- Jacobus Burger (2023)
+-- Ada 2017
 With Ada.Text_IO;
 
 Procedure main is
