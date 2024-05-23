@@ -1,0 +1,17 @@
+(* In loving memory of Niklaus Wirth https://people.inf.ethz.ch/wirth/ *)
+(* Jacobus Burger (2024) *)
+(* Oberon 07 *)
+MODULE hello;
+  IMPORT In, Out;
+  VAR name: ARRAY 2048 OF CHAR;
+  PROCEDURE Main;
+  BEGIN
+    In.String(name);
+    Out.String("Hello, ");
+    Out.String(name);
+    Out.String("!");
+    Out.Ln;
+  END Main;
+BEGIN
+  Main;
+END hello.
