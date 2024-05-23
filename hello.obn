@@ -11,6 +11,10 @@ MODULE hello;
     Out.String(name);
     Out.String("!");
     Out.Ln;
+    IF name = "Niklaus Wirth" THEN;
+      Out.String("RIP Niklaus Wirth");
+      Out.Ln;
+    END
   END Main;
 BEGIN
   Main;
