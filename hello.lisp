@@ -1,3 +1,5 @@
+; Jacobus Burger (2023)
+; Common Lisp
 (defun main ()
   (setq name (read-line))
   (format t "Hello, ~A!~%" name))
