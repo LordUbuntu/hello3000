@@ -1,3 +1,5 @@
+// Jacobus Burger (2023)
+// C++
 #include <iostream>
 using namespace std;
 
