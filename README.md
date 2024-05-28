@@ -88,6 +88,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [Nelua](https://github.com/LordUbuntu/hello3000/blob/main/hello.nelua)
 * [Nim](https://github.com/LordUbuntu/hello3000/blob/main/hello.nim)
 * [Oberon](https://github.com/LordUbuntu/hello3000/blob/main/hello.obn)
+* [Odin](https://github.com/LordUbuntu/hello3000/blob/main/hello.odin)
 * [Onyx](https://github.com/LordUbuntu/hello3000/blob/main/hello.onyx)
 * [Pascal](https://github.com/LordUbuntu/hello3000/blob/main/hello.pas)
 * [Perl](https://github.com/LordUbuntu/hello3000/blob/main/hello.plx)
