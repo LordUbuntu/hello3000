@@ -62,6 +62,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [C](https://github.com/LordUbuntu/hello3000/blob/main/hello.c)
 * [C#](https://github.com/LordUbuntu/hello3000/blob/main/hello.cs)
 * [Clojure](https://github.com/LordUbuntu/hello3000/blob/main/hello.clj)
+* [COBOL](https://github.com/LordUbuntu/hello3000/blob/main/hello.cob)
 * [CoffeeScript](https://github.com/LordUbuntu/hello3000/blob/main/hello.coffee)
 * [Coq](https://github.com/LordUbuntu/hello3000/blob/main/hello.coq)
 * [C++](https://github.com/LordUbuntu/hello3000/blob/main/hello.cpp)
