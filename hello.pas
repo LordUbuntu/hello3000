@@ -1,3 +1,5 @@
+// Jacobus Burger (2023)
+// Pascal
 program hello;
 var
   name : string;
