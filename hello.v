@@ -1,3 +1,5 @@
+// Jacobus Burger (2023)
+// V
 import os { input }
 
 fn main() {
