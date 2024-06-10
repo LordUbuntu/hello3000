@@ -1,4 +1,6 @@
 #!/bin/sh
+# Jacobus Burger (2023)
+# Bash
 
 main() {
   read -r name
