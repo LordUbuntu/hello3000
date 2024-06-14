@@ -1,5 +1,6 @@
 ; Jacobus Burger (2023)
 ; x86_64 Assembly
+; https://en.wikipedia.org/wiki/X86_assembly_language
 section .data
 	msg db "你好, 世界!", 10, "Bonjour, le monde!", 10, "Hello, World!", 10, 0
 	len equ $ - msg
