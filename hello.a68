@@ -1,5 +1,6 @@
 { Jacobus Burger 2024 }
-{ Algol 68 https://en.wikipedia.org/wiki/ALGOL_68 }
+{ Algol 68 }
+{ https://en.wikipedia.org/wiki/ALGOL_68 }
 BEGIN
   STRING name;  { create `name` variable }
   READ(name);   { get value of `name` from stdin }

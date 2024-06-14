@@ -1,5 +1,6 @@
 -- Jacobus Burger (2023)
--- Ada 2012 https://www.adacore.com/about-ada
+-- Ada 2012
+-- https://www.adacore.com/about-ada
 With Ada.Text_IO;
 
 Procedure main is
