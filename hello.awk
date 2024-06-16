@@ -1,6 +1,7 @@
 # Jacobus Burger (2023)
 # GNU Awk
-{  # close enough to 'main'
+# https://www.gnu.org/software/gawk/
+{
   name=$0;
   print "Hello, " $name "!";
 }
