@@ -1,5 +1,6 @@
       *> Jacobus Burger (2024)
       * COBOL
+      * https://www.ibm.com/docs/en/cobol-zos/6.2
        IDENTIFICATION DIVISION.
        PROGRAM-ID. HELLO.
        DATA DIVISION.
