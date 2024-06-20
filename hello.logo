@@ -1,5 +1,6 @@
 ; Jacobus Burger (2023)
 ; LOGO
+; https://en.wikipedia.org/wiki/Logo_(programming_language)
 to main
   make "name readlist
   print (se "Hello, :name "!)
