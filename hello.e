@@ -1,5 +1,6 @@
 -- Jacobus Burger (2024)
 -- Eiffel
+-- https://www.eiffel.org/
 class
     HELLO
 create
