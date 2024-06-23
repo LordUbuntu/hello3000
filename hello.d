@@ -1,3 +1,4 @@
+// Jacobus Burger (2024)
 import std.string : strip;
 import std.stdio : writeln, readln;
 
