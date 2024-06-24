@@ -1,5 +1,6 @@
 // Jacobus Burger (2023)
 // Go
+// https://go.dev/
 package main
 import "fmt"
 
