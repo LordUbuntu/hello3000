@@ -1,3 +1,5 @@
+// Tanmoy (2023)
+// Java
 import java.util.Scanner;
 
 public class hello
