@@ -1,3 +1,6 @@
+-- Jacobus Burger (2023)
+-- Nelua
+-- https://nelua.io
 require 'io'
 
 local function main(): integer
