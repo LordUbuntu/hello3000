@@ -1,5 +1,6 @@
 // Jacobus Burger (2024)
 // Odin
+// https://odin-lang.org/
 package hello
 import "core:os"
 import "core:fmt"
