@@ -1,3 +1,6 @@
+(* Jacobus Burger (2024) *)
+(* Modula 2 *)
+(* https://www.modula2.org/ *)
 MODULE hello;
 FROM InOut IMPORT ReadString, WriteString;
 VAR
