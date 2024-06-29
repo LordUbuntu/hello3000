@@ -1,5 +1,6 @@
 ; Jacobus Burger (2023)
 ; Guile 3 Scheme
+; https://www.gnu.org/software/guile/
 (use-modules (ice-9 rdelim))
 
 
