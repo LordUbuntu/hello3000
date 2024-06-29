@@ -1,3 +1,6 @@
+// Jacobus Burger (2024)
+// Onyx
+// https://onyxlang.io/
 use core { printf, stdio }
 use core.io { Reader }
 
