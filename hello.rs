@@ -1,3 +1,6 @@
+// Jacobus Burger (2022)
+// Rust
+// https://www.rust-lang.org/
 use std::io;
 
 fn main() -> io::Result<()> {
