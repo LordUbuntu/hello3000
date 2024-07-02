@@ -1,5 +1,6 @@
 // Jacobus Burger (2024)
 // Zig
+// https://ziglang.org/
 
 // import stdio reader/writer
 const std = @import("std");
