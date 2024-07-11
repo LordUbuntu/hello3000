@@ -73,6 +73,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [Elixir](https://github.com/LordUbuntu/hello3000/blob/main/hello.exs)
 * [F#](https://github.com/LordUbuntu/hello3000/blob/main/hello.fsx)
 * [Fortran](https://github.com/LordUbuntu/hello3000/blob/main/hello.f90)
+* [Gleam](https://github.com/LordUbuntu/hello3000/blob/main/hello.gleam)
 * [Go](https://github.com/LordUbuntu/hello3000/blob/main/hello.go)
 * [Guile](https://github.com/LordUbuntu/hello3000/blob/main/hello.guile)
 * [Haskell](https://github.com/LordUbuntu/hello3000/blob/main/hello.hs)
