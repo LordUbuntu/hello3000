@@ -1,5 +1,5 @@
 // Jacobus Burger (2024-07)
-// Gleam (comfy ⭐)
+// Gleam (comfy ⭐ lang)
 // https://gleam.run
 import gleam/io
 import gleam/erlang  // `gleam add gleam_erlang`
