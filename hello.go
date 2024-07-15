@@ -2,11 +2,15 @@
 // Go
 // https://go.dev/
 package main
-import "fmt"
+import (
+  "bufio"
+  "fmt"
+  "os"
+)
 
 
 func main() {
   var name string
-  fmt.Scanf("%s", &name)  // note: will only read first word on line
+  name, _ := bufio.NewReader(os.Stdin).ReadString('\n')
   fmt.Println("Hello, ", name, "!")
 }
