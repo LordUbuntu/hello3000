@@ -1,5 +1,6 @@
 // dreamberd (now known as C) hello world example ¯\_(ツ)_/¯
 // see: https://github.com/TodePond/C
+\\ comments can go anyway, who needs escape characters lol
 
 vote delete vote!  // experimental feature, see
                    // https://github.com/TodePond/C/issues/115 (or don't)
