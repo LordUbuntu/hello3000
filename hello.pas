@@ -2,8 +2,7 @@
 // Pascal
 // https://wiki.freepascal.org/
 program hello;
-var
-  name : string;
+var name : string;
 begin
   readln(name);
   writeln('Hello, ', name, '!');
