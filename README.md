@@ -74,6 +74,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [F#](https://github.com/LordUbuntu/hello3000/blob/main/hello.fsx)
 * [Fortran](https://github.com/LordUbuntu/hello3000/blob/main/hello.f90)
 * [Gleam](https://github.com/LordUbuntu/hello3000/blob/main/hello.gleam)
+* [GnuPlot](https://github.com/LordUbuntu/hello3000/blob/main/hello.gnu)
 * [Go](https://github.com/LordUbuntu/hello3000/blob/main/hello.go)
 * [Guile](https://github.com/LordUbuntu/hello3000/blob/main/hello.guile)
 * [Haskell](https://github.com/LordUbuntu/hello3000/blob/main/hello.hs)
