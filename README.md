@@ -72,6 +72,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [Eiffel](https://github.com/LordUbuntu/hello3000/blob/main/hello.e)
 * [Elixir](https://github.com/LordUbuntu/hello3000/blob/main/hello.exs)
 * [F#](https://github.com/LordUbuntu/hello3000/blob/main/hello.fsx)
+* [Factor](https://github.com/LordUbuntu/hello3000/blob/main/hello.factor)
 * [Fortran](https://github.com/LordUbuntu/hello3000/blob/main/hello.f90)
 * [Gleam](https://github.com/LordUbuntu/hello3000/blob/main/hello.gleam)
 * [GnuPlot](https://github.com/LordUbuntu/hello3000/blob/main/hello.gnu)
