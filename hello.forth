@@ -1,9 +1,11 @@
-create buffer 256 allot
+create my_name 256 allot
 
 : main
-  buffer 256 accept
+  my_name 256 accept
+  cr
   ." Hello, "
-  buffer swap type
+  my_name swap type
   ." !" cr ;
 
 main
+bye
