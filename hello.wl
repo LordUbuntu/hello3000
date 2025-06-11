@@ -7,5 +7,5 @@
 (* But you wanna know a secret? *)
 (* All the best people are :) *)
 
-stdin = $ScriptInputString <> Import["!cat", "String"]
-(* How do I print a string? I'll need to come back to this... *)
+name = InputString[""];
+Print["Hello, ", name, "!"];
