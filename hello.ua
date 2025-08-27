@@ -3,5 +3,5 @@
 # https://www.uiua.org
 
 # Equivalent expressions
-&p⊂⊂"Hello, "&sc"!"
-&p join join "Hello, " &sc "!"
+&p⊂⊂"Hello, "&sc@!
+&p join join "Hello, " &sc @!
