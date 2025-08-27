@@ -111,6 +111,7 @@ If enough people contribute frequently enough, I will create a github action for
 * [Swift](https://github.com/LordUbuntu/hello3000/blob/main/hello.swift)
 * [Turing](https://github.com/LordUbuntu/hello3000/blob/main/hello.st)
 * [TypeScript](https://github.com/LordUbuntu/hello3000/blob/main/hello.ts)
+* [Uiua](https://github.com/LordUbuntu/hello3000/blob/main/hello.ua)
 * [V](https://github.com/LordUbuntu/hello3000/blob/main/hello.v)
 * [Wren](https://github.com/LordUbuntu/hello3000/blob/main/hello.wren)
 * [Zig](https://github.com/LordUbuntu/hello3000/blob/main/hello.zig)
